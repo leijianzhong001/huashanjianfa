@@ -7,7 +7,7 @@ package com.atguigu.ci.entities;
  */
 public class Apple {
 
-    private String appName = "good apple ||| 现在测试一下jenkins自动部署是否管用";
+    private String appName = "good apple ||| 现在测试一下代码仓库是否是github";
 
     public String getAppName() {
         return appName;
