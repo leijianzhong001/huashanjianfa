@@ -7,7 +7,7 @@ package com.atguigu.ci.entities;
  */
 public class Apple {
 
-    private String appName = "good apple ||| 现在测试一下代码仓库是否是github";
+    private String appName = "good apple ||| 现在测试一下代码仓库是否是github11111";
 
     public String getAppName() {
         return appName;
